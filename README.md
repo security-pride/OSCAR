@@ -14,4 +14,4 @@ This experiment involves two specific types of datasets:
 ## RQ3
 In this experiment, we provide information on malicious packages detected over the past 18 months since January 2023. The dataset includes the names, versions, and categories of these malicious packages, offering valuable insights into trends and patterns in malicious package distribution.
 
-All the datasets mentioned above have been uploaded to Zenodo(https://zenodo.org/records/12742401) and are available for future research and analysis.
+All the datasets mentioned above have been uploaded to Zenodo(https://zenodo.org/records/13746167) and are available for future research and analysis.
